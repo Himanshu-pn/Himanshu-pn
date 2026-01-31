@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HimanshuParate&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Himanshu-pn&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -47,16 +47,16 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuParate&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuParate&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
+  <img src="https://github.com/HimanshuParate/HimanshuParate/blob/output/github-contribution-grid-snake.svg" />
+</p
 
 ---
 
