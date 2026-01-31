@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=HimanshuParate&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -70,10 +70,13 @@
 
 ## 🤝 Connect With Me  
 <p>
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/paratehimanshu" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:paratehimanshu77@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="mailto:hpparate19@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
